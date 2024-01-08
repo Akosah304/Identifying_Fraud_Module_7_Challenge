@@ -1,6 +1,7 @@
 # Identifying_Fraud_Module_7_Challenge
 ## Data Modelling
-![Entity Relationship Diagram](https://app.quickdatabasediagrams.com/#/d/lrjASe "Entity Relationship Diagram")
+**Entity Relationship Diagram (ERD)**
+![](https://github.com/Akosah304/Identifying_Fraud_Module_7_Challenge/blob/main/Starter_Files/ERD.png)
 
 ## Data Engineering
 Schema, query and testing are in the starter_files.
