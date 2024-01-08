@@ -1,6 +1,6 @@
 # Identifying_Fraud_Module_7_Challenge
 ## Data Modelling
-![Entity Relationship Diagram](https://assets.digitalocean.com/articles/alligator/boo.svg "Entity Relationship Diagram")
+![Entity Relationship Diagram](https://app.quickdatabasediagrams.com/#/d/lrjASe "Entity Relationship Diagram")
 
 ## Data Engineering
 Schema, query and testing are in the starter_files.
