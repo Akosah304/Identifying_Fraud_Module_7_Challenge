@@ -27,9 +27,20 @@ There are 8 transactions above $1000 and 4 transactions between $100 and $1000. 
 No. The high_tran_not7to9 view in queries.sql shows the transactions made outside 7:00 am to 9:00 am. The file is included in the data folder. Most of the transactions in this view are more than $1000. This is possible as dinner parties and get togethers happen mostly later during the day.
 
 ## Data Analysis - Part 2
+**Transaction Data for Card Holder ID 2**
+![](https://github.com/Akosah304/Identifying_Fraud_Module_7_Challenge/blob/main/Images/cardholder_2.png)
+
+**Transaction Data for Card Holder ID 18**
+![](https://github.com/Akosah304/Identifying_Fraud_Module_7_Challenge/blob/main/Images/cardholder_18.png)
+
+**Combined Transaction Data for Card Holder IDs 2 and 18**
+![](https://github.com/Akosah304/Identifying_Fraud_Module_7_Challenge/blob/main/Images/cardholder_2and18.png)
 
 ### What difference do you observe between the consumption patterns? Does the difference suggest a fraudulent transaction?
 Card_holder 2 averages purchases between $2 and $20 on a consistent basis whereas card_holder 18 has larger transaction values at irregular intervals. This could mean that card_holder 18 has been a victim of fraud or it could just be that card_holder 18 prefers to use cash for small purchases and credit card for larger purchases.
+
+**Box plot representing the expenditure data from January 2018 to June 2018 for cardholder ID 25**
+![](https://github.com/Akosah304/Identifying_Fraud_Module_7_Challenge/blob/main/Images/cardholder_25.png)
 
 ### Are there any outliers for cardholder ID 25? How many outliers are there per month?
 There are quite a few outliers for card_holder 25. There is 1 outlier in January, March and May; and 3 outliers in April and June.
